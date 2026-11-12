@@ -1,6 +1,2 @@
-BASE OK bubbls/UGS-Assets@ab3e2b7f551bcab53684a867b5bc3acfd406ebc6/babel tower -> babel-tower
-BASE REWRITE babel-tower
 BASE MISS bubbls/UGS-Assets@main/backyard baseball
-BASE OK bubbls/UGS-Assets@23edae6437a2cded4027d5c487fc9f6362e3ebfd/bacon may die -> bacon-may-die
-BASE REWRITE bacon-may-die
 BASE MISS bubbls/UGS-Assets@main/bad piggies
